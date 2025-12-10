@@ -1,2 +1,2 @@
 san mo lalagay?
-https://bleudechanel.vercel.app/
+https://pinapalaya-na-kita.vercel.app//
