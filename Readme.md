@@ -1,2 +1,2 @@
 san mo lalagay?
-bleudechanel.vercel.app
+https://bleudechanel.vercel.app/
